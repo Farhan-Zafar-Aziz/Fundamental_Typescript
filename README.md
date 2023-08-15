@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Farhan-Zafar-Aziz
+  PIAIC
 - 👀 I’m interested in Technology.
 - 🌱 I’m currently learning Web 3.0 and Metaverse in PIAIC
 - 💞️ I’m looking to collaborate on ...
